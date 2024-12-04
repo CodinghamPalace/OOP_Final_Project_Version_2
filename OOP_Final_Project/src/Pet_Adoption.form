@@ -162,6 +162,9 @@
                       <model>
                         <item value="Dog"/>
                         <item value="Cat"/>
+                        <item value="Rabbit"/>
+                        <item value="Bird"/>
+                        <item value="Hamster"/>
                       </model>
                     </properties>
                   </component>
